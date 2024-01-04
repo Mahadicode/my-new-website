@@ -8,10 +8,13 @@ h2{
   background-color: aliceblue;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-div{
+p{
   background-color: rgb(232, 232, 23);
   padding: 10px;
   border: 20px tomato solid;
   margin: 10px;
-  box-shadow: black 10px;
+  box-shadow: black 10px solid;
+}
+*{
+  margin:5px;
 }
